@@ -1,0 +1,19 @@
+{
+  "name": "totvs-twebchannel",
+  "license": "MIT",
+  "main": "./totvs-twebchannel.js",
+  "ignore": [],
+  "dependencies": {},
+  "version": "0.0.10",
+  "homepage": "https://github.com/TOTVSTEC/bower-totvs-twebchannel",
+  "_release": "0.0.10",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.10",
+    "commit": "ab7ee0d48fec3965e5a6212822552f13ef72b345"
+  },
+  "_source": "https://github.com/TOTVSTEC/bower-totvs-twebchannel.git",
+  "_target": "^0.0.10",
+  "_originalSource": "totvs-twebchannel",
+  "_direct": true
+}

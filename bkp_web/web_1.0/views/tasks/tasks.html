@@ -1,0 +1,41 @@
+<div
+    class="container totvs-content anim-slide-below-fade"
+    ui-view="tasks"
+    ng-controller="TasksController as controller">
+    
+    <div class="totvs-content-padding">
+       <div class="totvs-content-padding">
+            <button
+                id="btProduto"
+                type="button"
+                class="totvs-btn totvs-btn-primary totvs-btn-justified btn-lg"
+                ng-click="controller.openGraph()">
+                {{ 'l-Mais-Vendidos' | translate }}
+            </button>
+        </div>
+
+    </div>
+
+    <!--
+    <div class="totvs-content-padding">
+        <div class="totvs-tab {{ controller.rootState == 'tasks' ? 'active' : '' }}" ng-click="controller.tabClick('tasks')">
+            <div class="totvs-tab-icon">
+                <span class="glyphicon glyphicon-check" aria-hidden="true"></span>
+            </div>
+            <div class="totvs-tab-label">
+                {{ 'l-Tasks' | translate }}
+            </div>
+        </div>
+        <div class="totvs-tab {{ controller.rootState == 'settings' ? 'active' : '' }}"  ng-click="controller.tabClick('settings')">
+            <div class="totvs-tab-icon">
+                <span class="glyphicon glyphicon-cog" aria-hidden="true"></span><br>
+            </div>
+            <div class="totvs-tab-label">
+                {{ 'l-Settings' | translate }}
+            </div>
+        </div>
+    </div>
+    -->
+
+
+</div>

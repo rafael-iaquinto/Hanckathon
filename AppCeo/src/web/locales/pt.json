@@ -1,0 +1,54 @@
+﻿{
+    "APP_TITLE" : "Mobilidade",
+    "APP_MODULE" : "Hack App",
+
+    "l-Houve-um-problema-ao-inicializar-o-app" : "Houve um problema ao inicializar o aplicativo",
+
+    "l-de" : "de",
+
+    "l-Dom" : "Dom.",
+    "l-Seg" : "Seg.",
+    "l-Ter" : "Ter.",
+    "l-Qua" : "Qua.",
+    "l-Qui" : "Qui.",
+    "l-Sex" : "Sex.",
+
+    "l-Janeiro" : "Janeiro",
+    "l-Fevereiro" : "Fevereiro",
+    "l-Marco" : "Março",
+    "l-Abril" : "Maio",
+    "l-Maio" : "Fevereiro",
+    "l-Junho" : "Fevereiro",
+    "l-Julho" : "Fevereiro",
+    "l-Agosto" : "Fevereiro",
+    "l-Setembro" : "Fevereiro",
+    "l-Outubro" : "Fevereiro",
+    "l-Novembro" : "Fevereiro",
+    "l-Dezembro" : "Fevereiro",
+
+    "l-Graphs" : "Gráficos",
+    "l-Settings" : "Configurações",
+
+    "l-Selecionar" : "Selecionar",
+    "l-Salvar" : "Salvar",
+    "l-Finalizar" : "Finalizar",
+    "l-Cancelar" : "Cancelar",
+
+    "l-Carregar-mais" : "Carregar mais",
+    "l-bem-vindo" : "Bem vindo!",
+
+
+    "l-Pesquisar" : "Pesquisar",
+    "l-Sair" : "Sair",
+
+    "l-Parametros-de-configuracao-no-servidor-invalidos" : "Os parâmetros de configuração no servidor são inválidos",
+
+    "l-Nenhuma-Tarefa" : "Opa, parece que seu dia esta livre hoje!",
+    "l-Nova-Tarefa" : "Nova Tarefa",
+    "l-Nome" : "Nome",
+    "l-Data" : "Data",
+    "l-Graphs.detail" : "Detalhes",
+    "l-Tarefa" : "Tarefa",
+    "l-Mais-Vendidos" : "Mais Vendidos"
+
+}

@@ -1,0 +1,16 @@
+{
+  "name": "AppCeo",
+  "id": "com.rafael.appceo",
+  "main": "src/web/index.html",
+  "bowerComponents": {
+    "totvs-twebchannel": "^0.0.10"
+  },
+  "platform": {
+    "windows": {
+      "version": "master"
+    },
+    "android": {
+      "version": "master"
+    }
+  }
+}
